@@ -1,3 +1,3 @@
-<img src="/img/pay.jpg">
+<img src="/img/pay.png">
 <br>
-<img src="/img/success.jpg">
+<img src="/img/success.png">
