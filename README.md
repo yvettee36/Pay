@@ -1,4 +1,4 @@
-简书地址：http://www.jianshu.com/writer#/notebooks/11760359/notes/11844478
+简书地址：http://www.jianshu.com/p/a3d40d4fd995
 <img src="/img/pay.png">
 <br>
 <img src="/img/success.png">
